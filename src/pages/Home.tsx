@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
-import { FileText, Users, Calendar, BookOpen, CheckCircle, ArrowRight, Award, Target, Heart, ShoppingCart } from "lucide-react";
+import { FileText, Users, Calendar, BookOpen, CheckCircle, ArrowRight, Award, Target, Heart, ShoppingCart, Linkedin, FolderCheck, Clock, Star } from "lucide-react";
 import Navigation from "@/components/Navigation";
 import Footer from "@/components/Footer";
 
@@ -79,19 +79,27 @@ const Home = () => {
             <div className="grid md:grid-cols-2 gap-8 items-center">
               <div className="flex items-center justify-center gap-8">
                 <div className="flex flex-col gap-6">
-                  <div className="flex items-center justify-center w-24 h-24 rounded-full bg-primary/10">
-                    <Award className="h-12 w-12 text-primary" />
+                  <div className="flex flex-col items-center justify-center w-32 h-32 rounded-full bg-primary/10 p-4">
+                    <FolderCheck className="h-8 w-8 text-primary mb-2" />
+                    <div className="text-2xl font-bold text-primary">+5</div>
+                    <div className="text-xs text-muted-foreground text-center">Projets réalisés</div>
                   </div>
-                  <div className="flex items-center justify-center w-24 h-24 rounded-full bg-primary/10">
-                    <Target className="h-12 w-12 text-primary" />
+                  <div className="flex flex-col items-center justify-center w-32 h-32 rounded-full bg-primary/10 p-4">
+                    <Clock className="h-8 w-8 text-primary mb-2" />
+                    <div className="text-2xl font-bold text-primary">2</div>
+                    <div className="text-xs text-muted-foreground text-center">Ans d'expérience</div>
                   </div>
                 </div>
                 <div className="flex flex-col gap-6">
-                  <div className="flex items-center justify-center w-24 h-24 rounded-full bg-primary/10">
-                    <Heart className="h-12 w-12 text-primary" />
+                  <div className="flex flex-col items-center justify-center w-32 h-32 rounded-full bg-primary/10 p-4">
+                    <Star className="h-8 w-8 text-primary mb-2" />
+                    <div className="text-2xl font-bold text-primary">98%</div>
+                    <div className="text-xs text-muted-foreground text-center">Satisfaction</div>
                   </div>
-                  <div className="flex items-center justify-center w-24 h-24 rounded-full bg-primary/10">
-                    <Users className="h-12 w-12 text-primary" />
+                  <div className="flex flex-col items-center justify-center w-32 h-32 rounded-full bg-primary/10 p-4">
+                    <Users className="h-8 w-8 text-primary mb-2" />
+                    <div className="text-2xl font-bold text-primary">+3</div>
+                    <div className="text-xs text-muted-foreground text-center">Clients</div>
                   </div>
                 </div>
               </div>

@@ -114,7 +114,7 @@ const Footer = () => {
               <a href="https://www.instagram.com/dionewar_agro_services?igsh=MTEwNnkxdWZid2Y5dg%3D%3D&utm_source=qr" target="_blank" rel="noopener noreferrer" className="bg-primary-foreground/10 hover:bg-primary-foreground/20 p-2 rounded-full transition-colors">
                 <Instagram className="h-5 w-5" />
               </a>
-              <a href="https://www.linkedin.com/posts/africa-rice-center_strengthening-africachina-rice-research-activity-7396975822059929625-Kn6d?utm_source=share&utm_medium=member_ios&rcm=ACoAADiC5QMB_mNZJiSyCbISmefOBQvpRHLLBcw" target="_blank" rel="noopener noreferrer" className="bg-primary-foreground/10 hover:bg-primary-foreground/20 p-2 rounded-full transition-colors">
+              <a href="https://www.linkedin.com/in/lamine-coura-ndong-457626225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" rel="noopener noreferrer" className="bg-primary-foreground/10 hover:bg-primary-foreground/20 p-2 rounded-full transition-colors">
                 <Linkedin className="h-5 w-5" />
               </a>
               <a href="https://www.tiktok.com/@laminecourandong?_r=1&_t=ZM-91fQ5gXkQKh" target="_blank" rel="noopener noreferrer" className="bg-primary-foreground/10 hover:bg-primary-foreground/20 p-2 rounded-full transition-colors">
