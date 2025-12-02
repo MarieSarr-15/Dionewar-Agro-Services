@@ -42,7 +42,7 @@ const Services = () => {
       image: "/planification.jpeg",
       description: "Élaborez des stratégies agricoles durables avec nos services de planification sur mesure.",
       features: [
-        "Calendriers culturaux optimisés",
+        "Calendriers culturales optimisés",
         "Rotation des cultures adaptée",
         "Planification des ressources",
         "Gestion des saisons agricoles",
@@ -59,8 +59,8 @@ const Services = () => {
         "Formation aux techniques modernes",
         "Ateliers pratiques sur le terrain",
         "Modules de formation certifiants",
-        "Formation à l'agroécologie",
-        "Renforcement des capacités techniques",
+        "Formation en Agroécologie",
+        "Renforcement des capacités",
       ],
     },
     {
