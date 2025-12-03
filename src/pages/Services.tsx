@@ -80,7 +80,7 @@ const Services = () => {
     {
       icon: ShoppingCart,
       title: "Vente de Poulet",
-      subtitle: "Poulets de chair de qualité supérieure",
+      subtitle: "Poulets  de qualité supérieure",
       image: "/elevage et vente poulet.jpeg",
       description: "Découvrez notre élevage de poulets  et bénéficiez de produits de qualité pour vos besoins.",
       features: [
