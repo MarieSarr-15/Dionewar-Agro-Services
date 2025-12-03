@@ -35,7 +35,7 @@ const Home = () => {
     {
       icon: ShoppingCart,
       title: "Vente de Poulet",
-      description: "Poulets de chair de qualité supérieure pour vos besoins",
+      description: "Poulets de qualité supérieure pour vos besoins",
     },
   ];
 
