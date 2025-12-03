@@ -40,7 +40,7 @@ const Realisations = () => {
       category: "formation",
     },
     {
-      title: "Élevage et vente de Poulet de Chair",
+      title: "Élevage et vente de Poulet ",
       lieu: "Koutal",
       image: "/elevage et vente poulet.jpeg",
       category: "production",
