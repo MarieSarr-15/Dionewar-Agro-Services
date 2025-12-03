@@ -82,9 +82,9 @@ const Services = () => {
       title: "Vente de Poulet",
       subtitle: "Poulets de chair de qualité supérieure",
       image: "/elevage et vente poulet.jpeg",
-      description: "Découvrez notre élevage de poulets de chair et bénéficiez de produits de qualité pour vos besoins.",
+      description: "Découvrez notre élevage de poulets  et bénéficiez de produits de qualité pour vos besoins.",
       features: [
-        "Poulets de chair élevés avec soin",
+        "Poulets élevés avec soin",
         "Qualité supérieure garantie",
         "Disponibilité régulière",
         "Prix compétitifs",
