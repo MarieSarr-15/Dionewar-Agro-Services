@@ -61,7 +61,7 @@ const About = () => {
               <div className="prose prose-lg max-w-none flex flex-col justify-center h-[650px]">
                 <p className="text-muted-foreground leading-relaxed mb-6">
                   Dionewar Agro Services est née d'une passion profonde pour l'agriculture
-                  et d'une vision claire : rendre l'excellence agricole accessible à tous.
+                  et d'une vision claire : rendre  l’exclusivité agricole accessible à tous.
                   Fondée par M.Lamine Coura Ndong, agronome de formation , notre entreprise
                   s'est développée pour devenir un acteur incontournable dans le
                   développement agricole durable. Grâce à une expertise du terrain et un
